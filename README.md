@@ -1,2 +1,4 @@
-# printf
-Alx Collaboration Project
+# Creating Printf Function
+### collaborators
+* Sammy IYEBHORA --Sammykingx
+* Timmy ADEYEMI --TimmyPR
